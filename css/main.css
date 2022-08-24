@@ -8,6 +8,7 @@ html,body{
  .header{
     background-color:#0D5E71 ;
     color: azure;
+    text-align: center;
  }
  .main1 img{
     width: 20%;
@@ -17,9 +18,12 @@ html,body{
     position: absolute;
     top: 115px;
     margin-left: 114px;
+   
+    
  }
  .main{
     background-color: #0D5E71;
+    
  }
  
  
@@ -34,8 +38,44 @@ html,body{
  }
  .wish{
    background-color: #0D5E71;
-   box-shadow: 0px 0px 5px;
+  
  }
+ .wish p{
+   width: 30%;
+   box-shadow: 0px 0px 3px;
+   color: wheat;
+   margin-left: 17%;
+   margin-top: -4%;
+ }
+ .wish h6{
+   width: 32%;
+   margin-left: 64%;
+    position: absolute;
+    top: 713px;
+    color: aqua;
+ }
+ .wish p span{
+   color: red;
+ }
+ .wish2 img{
+   width: 17%;
+   padding: 17px;
+    margin-left: 46%;
+    margin-top: -5%;
+ }
+ .wish h3{
+   margin-left: 71%;
+    position: absolute;
+    top: 860px;
+    color: wheat;
+ }
+ .wish h4{
+   padding-left: 79%;
+    position: absolute;
+    top: 888px;
+    color: red;
+ }
+ 
 
  
  
